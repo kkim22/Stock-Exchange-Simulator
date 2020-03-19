@@ -19,9 +19,9 @@ Testing for the comman libraries are also stored in the Common file
 
 3. Navigate to
 
-  'Basic' file to run the command line based code
+  * 'Basic' file to run the command line based code
   
-  'Solid_Awesome' file to run the GUI based code
+  * 'Solid_Awesome' file to run the GUI based code
   
 4. From command line, type: "python run.py"
 
